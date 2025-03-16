@@ -1,5 +1,5 @@
 Hi, my name is Akshat Mardia.
-I’m looking to collaborate on interesting projects. Contact me on discord @akshatmardia.
+If you want to collaborate on interesting projects. Contact me on discord @akshatmardia.
 <!---
 akshatmardia/akshatmardia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
